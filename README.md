@@ -27,8 +27,8 @@ A simple Python project that uses the OpenAI API to test that you can connect to
 
 ## Execution
 
-- From the terminal, execute the followwing command.
+From the terminal, execute the followwing command.
 
-    ```console
-    python test-gpt-conn.py
-    ```
+```console
+python test-gpt-conn.py
+```
