@@ -1,6 +1,6 @@
 # Test GPT Connecton
 
-A simple project that uses the OpenAI API to test that it can connect to an OpenAI or Azure-hosted GPT LLM, send a simple prompt, and receive a text completion response.
+A simple Python project that uses the OpenAI API to test that you can connect to an OpenAI or Azure-hosted GPT LLM, send a simple prompt, and receive a text completion response.
 
 
 ## Prerequisites
